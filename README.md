@@ -1,3 +1,3 @@
 # GOB
 GOB behavior
-Implemented overall utility AI behavior
+Implemented overall utility weighted AI goal oriented behavior
